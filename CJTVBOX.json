@@ -863,6 +863,25 @@
  ],
  "sites": [
   {
+   "key": "drpy_js_豆瓣",
+   "name": "DRPY┃豆瓣排行",
+   "type": 3,
+   "api": "csp_Douban",
+   "searchable": 0,
+   "changeable": 1,
+   "ext": "./json/douban.json"
+  },
+  {
+   "key": "csp_sp_龙门影视",
+   "name": "推荐┃龙门影视",
+   "type": 3,
+   "api": "csp_AppYsV2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://movie.iqinu.com/api.php/v1.vod"
+  },
+  {
    "key": "csp_sp_天天秒播",
    "name": "爬虫┃天天秒播",
    "type": 3,
@@ -2994,25 +3013,6 @@
    "api": "https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1
-  },
-  {
-   "key": "drpy_js_豆瓣",
-   "name": "DRPY┃豆瓣排行",
-   "type": 3,
-   "api": "csp_Douban",
-   "searchable": 0,
-   "changeable": 1,
-   "ext": "./json/douban.json"
-  },
-  {
-   "key": "csp_sp_龙门影视",
-   "name": "推荐┃龙门影视",
-   "type": 3,
-   "api": "csp_AppYsV2",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "http://movie.iqinu.com/api.php/v1.vod"
   }
  ]
 }
