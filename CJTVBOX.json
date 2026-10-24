@@ -886,7 +886,7 @@
    "name": "官方┃腾讯视频",
    "type": 3,
    "api": "./lib/drpy2.min.js",
-   "ext": "./js/腾云驾雾.js",
+   "ext": "./js/tengyun.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
