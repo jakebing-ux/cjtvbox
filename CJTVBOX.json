@@ -872,15 +872,6 @@
    "ext": "./json/douban.json"
   },
   {
-   "key": "csp_sp_应用商店",
-   "name": "应用┃新版下载",
-   "type": 3,
-   "api": "csp_Market",
-   "searchable": 0,
-   "changeable": 0,
-   "ext": "./json/market.json"
-  },
-  {
    "key": "csp_sp_龙门影视",
    "name": "推荐┃龙门影视",
    "type": 3,
@@ -2736,24 +2727,6 @@
    "filterable": 0,
    "ext": "e2f95c07e4bc416e9c1be74acacceaa5",
    "hide": 1
-  },
-  {
-   "key": "说明1",
-   "name": "公众号【东曦视界】",
-   "type": 3,
-   "api": "csp_XPath",
-   "searchable": 0,
-   "changeable": 0,
-   "ext": ""
-  },
-  {
-   "key": "说明2",
-   "name": "免费接口更新维护",
-   "type": 3,
-   "api": "csp_XPath",
-   "searchable": 0,
-   "changeable": 0,
-   "ext": ""
   },
   {
    "key": "cj_黑木耳无广告",
