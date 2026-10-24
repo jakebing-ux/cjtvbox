@@ -1204,16 +1204,6 @@
    "ext": ""
   },
   {
-   "key": "csp_sp_腾讯视频",
-   "name": "官方┃腾云驾雾",
-   "type": 3,
-   "api": "csp_QQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": ""
-  },
-  {
    "key": "csp_sp_奇艺视频",
    "name": "官方┃奇珍异兽",
    "type": 3,
