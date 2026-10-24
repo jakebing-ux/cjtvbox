@@ -1196,32 +1196,35 @@
   {
    "key": "csp_sp_360影视",
    "name": "官方┃三六零度",
-   "api": "csp_SP360",
+   "api": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/lib/drpy2.min.js",
    "type": 3,
    "filterable": 1,
    "quickSearch": 1,
    "searchable": 1,
-   "ext": ""
+   "ext": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/js/360.js",
+   "changeable": 1
   },
   {
    "key": "csp_sp_奇艺视频",
    "name": "官方┃奇珍异兽",
    "type": 3,
-   "api": "csp_IQIYI",
-   "searchable": 0,
-   "quickSearch": 0,
+   "api": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/lib/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
    "filterable": 1,
-   "ext": ""
+   "ext": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/js/iqiyi.js",
+   "changeable": 1
   },
   {
    "key": "csp_sp_芒果视频",
    "name": "官方┃芒芒苦海",
    "type": 3,
-   "api": "csp_MGTV",
+   "api": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": ""
+   "ext": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/js/mango.js",
+   "changeable": 1
   },
   {
    "key": "csp_sp_Aid",
