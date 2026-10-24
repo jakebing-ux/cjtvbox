@@ -2625,16 +2625,6 @@
    "ext": ""
   },
   {
-   "key": "zy_黑木耳源",
-   "name": "接口┃黑木耳源",
-   "type": 1,
-   "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": ""
-  },
-  {
    "key": "zy_360资源",
    "name": "接口┃360资源",
    "type": 1,
@@ -2727,14 +2717,6 @@
    "filterable": 0,
    "ext": "e2f95c07e4bc416e9c1be74acacceaa5",
    "hide": 1
-  },
-  {
-   "key": "cj_黑木耳无广告",
-   "name": "接口┃黑木耳无广告",
-   "type": 1,
-   "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "quickSearch": 1
   },
   {
    "key": "cj_红牛影视",
