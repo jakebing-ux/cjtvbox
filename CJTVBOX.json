@@ -233,7 +233,7 @@
   "volgreal.com",
   "stgowan.com"
  ],
- "spider": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/lm60601.jar;md5;edf2bad2a6943342039f03ade94904dd",
+ "spider": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/lm60601.jar;md5;46af2147da1a25ec8b026fa69f7f5bec",
  "lives": [
   {
    "group": "redirect",
@@ -956,7 +956,7 @@
    "type": 3,
    "api": "csp_Jpys",
    "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx260509.jar;md5;9237bddaebf29f45e617f5328bdc5474"
+   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx260509.jar;md5;f91c15b1d9ae984b93ce7c1b12cffbe7"
   },
   {
    "key": "zy_优质资源",
@@ -1081,7 +1081,7 @@
    "quickSearch": 0,
    "filterable": 0,
    "changeable": 0,
-   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx260509.jar;md5;9237bddaebf29f45e617f5328bdc5474",
+   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx260509.jar;md5;f91c15b1d9ae984b93ce7c1b12cffbe7",
    "ext": ""
   },
   {
@@ -1102,7 +1102,7 @@
    "filterable": 1,
    "changeable": 0,
    "ext": "https://vip.wwgz.cn:5200",
-   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx260509.jar;md5;9237bddaebf29f45e617f5328bdc5474"
+   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx260509.jar;md5;f91c15b1d9ae984b93ce7c1b12cffbe7"
   },
   {
    "key": "csp_sp_爱看机器",
@@ -1357,7 +1357,7 @@
    "quickSearch": 0,
    "filterable": 1,
    "ext": "./json/ertongleyuan.json",
-   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx0301.jar;md5;7c26600bf679881bde52aed94f4f843a"
+   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx0301.jar;md5;199d4a1fe605b85d1500b5a24d3aade4"
   },
   {
    "key": "cps_bl_学习园地",
@@ -1368,7 +1368,7 @@
    "quickSearch": 0,
    "filterable": 1,
    "ext": "./json/xuexiyuandi.json",
-   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx0301.jar;md5;7c26600bf679881bde52aed94f4f843a"
+   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx0301.jar;md5;199d4a1fe605b85d1500b5a24d3aade4"
   },
   {
    "key": "zy_虎牙资源",
@@ -2705,7 +2705,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "./json/bilibili.json",
-   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx0301.jar;md5;7c26600bf679881bde52aed94f4f843a"
+   "jar": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/jar/dx0301.jar;md5;199d4a1fe605b85d1500b5a24d3aade4"
   },
   {
    "key": "zy_影图资源",
