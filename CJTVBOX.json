@@ -882,15 +882,15 @@
    "ext": "http://movie.iqinu.com/api.php/v1.vod"
   },
   {
-   "key": "csp_js_腾讯视频",
+   "key": "drpy_js_腾讯",
    "name": "官方┃腾讯视频",
    "type": 3,
-   "api": "./lib/tencent.js",
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/腾云驾雾.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "changeable": 1,
-   "ext": {}
+   "changeable": 1
   },
   {
    "key": "csp_sp_天天秒播",
