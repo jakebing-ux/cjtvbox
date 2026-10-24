@@ -1,0 +1,16 @@
+{
+ "spider": "",
+ "lives": [],
+ "parses": [],
+ "flags": [],
+ "sites": [
+  {
+   "key": "test_heimuer",
+   "name": "测试|黑木耳",
+   "type": 1,
+   "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1
+  }
+ ]
+}
