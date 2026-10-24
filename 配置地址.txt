@@ -1,7 +1,6 @@
 CJTVBOX 在线配置地址（从本文件复制）
 
-直连代理 (推荐)：https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/CJTVBOX.json
+直连代理 (推荐·短链)：https://tinyurl.com/2blv3s7m
+（短链 301 跳转到：https://v4.gh-proxy.org/https://raw.githubusercontent.com/jakebing-ux/cjtvbox/main/CJTVBOX.json）
 
 CDN（最新版 v2，无缓存）：https://cdn.jsdelivr.net/gh/jakebing-ux/cjtvbox@v2/CJTVBOX.json
-
-CDN（v1，若缓存未刷新请用 v2）：https://cdn.jsdelivr.net/gh/jakebing-ux/cjtvbox@v1/CJTVBOX.json
